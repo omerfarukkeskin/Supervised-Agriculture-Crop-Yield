@@ -53,6 +53,9 @@ The model gave 91% successful results in predicting crop yield per hectare.
 Data set source:
 https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield
 
+Kaggle:
+https://www.kaggle.com/code/ofarukkeskin/supervised-ml-agriculture-crop-yield
+
 ![1](https://github.com/user-attachments/assets/11c58fd5-07cd-480d-8cbc-b2136400cd8f)
 
 ![2](https://github.com/user-attachments/assets/c67087b0-8ebe-476d-9842-6329ee8829b8)
