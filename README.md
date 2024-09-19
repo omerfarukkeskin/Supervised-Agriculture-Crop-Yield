@@ -7,13 +7,21 @@ Multiple Linear Regression was chosen to model the linear relationship between t
 The columns in the dataset are:
 
 Soil_Type: Soil Type
+
 Crop: Crop Planted
+
 Rainfall_mm: Amount of Rainfall (mm)
+
 Temperature_Celsius: Temperature (°C)
+
 Fertilizer_Used: Amount of Fertilizer Used
+
 Irrigation_Used: Irrigation Amount
+
 Weather_Condition: Weather
+
 Days_to_Harvest: Number of Days Until Harvest
+
 Yield_tons_per_hectare: Crop Yield per Hectare (Dependent Variable)
 
 Within the scope of the project, Multiple Linear Regression was used to model the relationship between the dependent variable of yield per hectare (Yield_tons_per_hectare) and other columns (independent variables). The model predicts yield based on factors such as soil type, temperature, and rainfall.
