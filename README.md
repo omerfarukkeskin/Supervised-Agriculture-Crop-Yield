@@ -42,7 +42,7 @@ Within the scope of the project, Multiple Linear Regression was used to model th
 Results:
 The model gave 91% successful results in predicting crop yield per hectare.
 
-Source:
+Data set source:
 https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield
 
 ![1](https://github.com/user-attachments/assets/11c58fd5-07cd-480d-8cbc-b2136400cd8f)
